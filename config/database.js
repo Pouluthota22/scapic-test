@@ -1,6 +1,6 @@
 // config/database.js
 module.exports = {
 
-    'url' : 'mongodb://admin:admin123@ds153304.mlab.com:53304/assessments' // looks like mongodb://<user>:<pass>@mongo.onmodulus.net:27017/Mikha4ot
-
+  //  'url' : ' mongodb://<user>:<pass>@mongo.onmodulus.net:27017/Mikha4ot' // if using any cluster database
+//'url':'mongodb://localhost:27017/databasename' // if using your localhost.
 };
