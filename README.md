@@ -29,7 +29,8 @@ Go to config/auth.js and replace client id and secret.
         'clientSecret'  : 'XXXXXXXXXXX',//your-client-secret-here
         'callbackURL'   : 'http://127.0.0.1:8080/auth/google/callback'
     }
-    ```
+    
+```
 
 Go to config/database.js
 
@@ -48,7 +49,7 @@ Run the app using
 node server.js
 
 ```
-Go to the browser at open
+Go to the browser and open
 ```bash 
 localhost:8000
 
